@@ -1,2 +1,2 @@
 # pokemon
-Dataset of Pokemon for the scivision catalog
+Dataset of Pokemon for the [scivision catalog](https://scivision.readthedocs.io/en/latest/)
