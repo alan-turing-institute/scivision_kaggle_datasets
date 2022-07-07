@@ -10,4 +10,4 @@ sources:
       origin: 
       driver: intake_xarray.image.ImageSource
       args:
-        urlpath: 'https://en.wikipedia.org/wiki/Pikachu#/media/File:Pok%C3%A9mon_Pikachu_art.png'
+        urlpath: 'https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png'
