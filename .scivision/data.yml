@@ -5,3 +5,9 @@ sources:
       driver: intake_xarray.image.ImageSource
       args:
         urlpath: ["zip://*.png::pokemon.zip"]
+  pikachu:
+      description: A single image of Pikachu
+      origin: 
+      driver: intake_xarray.image.ImageSource
+      args:
+        urlpath: 'https://en.wikipedia.org/wiki/Pikachu#/media/File:Pok%C3%A9mon_Pikachu_art.png'
