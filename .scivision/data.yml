@@ -1,0 +1,7 @@
+sources:
+  pokemon:
+      description: Load images of Pokemon
+      origin: 
+      driver: intake_xarray.image.ImageSource
+      args:
+        urlpath: ["zip://*.tif::pokemon.zip"]
