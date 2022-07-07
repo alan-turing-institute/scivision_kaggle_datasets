@@ -4,4 +4,4 @@ sources:
       origin: 
       driver: intake_xarray.image.ImageSource
       args:
-        urlpath: ["zip://*.tif::pokemon.zip"]
+        urlpath: ["zip://*.png::pokemon.zip"]
