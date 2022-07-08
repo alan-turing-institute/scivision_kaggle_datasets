@@ -4,7 +4,7 @@ sources:
       origin: 
       driver: intake_xarray.image.ImageSource
       args:
-        urlpath: ["zip://*.png::pokemon.zip"]
+        urlpath: ["zip://*.png::https://raw.githubusercontent.com/edwardchalstrey1/pokemon/main/pokemon.zip"]
   pikachu:
       description: A single image of Pikachu
       origin: 
