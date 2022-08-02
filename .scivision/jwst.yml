@@ -1,7 +1,7 @@
 sources:
-  space:
+  nebula:
       description: Load images of space taken by the James Webb Space Telescope
       origin: 
       driver: intake_xarray.image.ImageSource
       args:
-        urlpath: ["zip://*.tif::https://www.kaggle.com/datasets/goelyash/james-webb-telescope-images-original-size/download?datasetVersionNumber=1"]
+        urlpath: ["https://raw.githubusercontent.com/alan-turing-institute/scivision_kaggle_datasets/main/data/jwst/southern-ring-nebula.tif"]
