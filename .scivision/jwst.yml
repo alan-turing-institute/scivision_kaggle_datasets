@@ -1,0 +1,7 @@
+sources:
+  space:
+      description: Load images of space taken by the James Webb Space Telescope
+      origin: 
+      driver: intake_xarray.image.ImageSource
+      args:
+        urlpath: ["zip://*.tif::https://www.kaggle.com/datasets/goelyash/james-webb-telescope-images-original-size/download?datasetVersionNumber=1"]
